@@ -1,5 +1,5 @@
 const ButtonShowAlert = () => {
-    return <button>show alert</button>
-}
+    return <button>show alert</button>;
+};
 
-export default ButtonShowAlert
+export default ButtonShowAlert;
