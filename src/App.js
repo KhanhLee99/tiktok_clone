@@ -1,4 +1,4 @@
-import ButtonShowAlert from "~/components/Button";
+import ButtonShowAlert from '~/components/Button';
 
 function App() {
   return (
