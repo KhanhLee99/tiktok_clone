@@ -1,9 +1,7 @@
-import ButtonShowAlert from '~/components/Button';
-
 function App() {
   return (
     <div className="App">
-      <ButtonShowAlert />
+      <h1>REACT APP</h1>
     </div>
   );
 }
