@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  app:
+    image: tiktok_clone/react:v1
+    volumes:
+      - ./src:/tiktok_clone_front/src
+    ports:
+      - '3001:3000'
+    restart: unless-stopped
