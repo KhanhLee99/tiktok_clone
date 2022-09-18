@@ -11,7 +11,7 @@ const AccountItem = () => {
     <div className={cx('wrapper')}>
       <img
         className={cx('avatar')}
-        src="https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/31f33b8da548b6fb59e42400fb9d3f98.jpeg?x-expires=1663002000&x-signature=dNqWJwZKVS9PMUbdnoctdAzpw3w%3D"
+        src="https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/53036b5eb08594c33a73a28b5d384360~c5_100x100.jpeg?x-expires=1663646400&x-signature=FXIBXTkTlE66%2FiF0CGmiPx9imKM%3D"
         alt="Hoaa"
       />
       <div className={cx('info')}>
